@@ -104,7 +104,7 @@ return {
                 "intelephense",
                 "ts_ls",
                 "eslint",
-                "clang-format",
+                "clangd",
             },
             handlers = {
                 -- this first function is the "default handler"
